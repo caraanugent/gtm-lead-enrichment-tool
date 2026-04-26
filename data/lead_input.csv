@@ -1,0 +1,16 @@
+name,email,company,property_address,city,state,country,processing_status
+Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,processed
+Rachel Green,rachel@test.com,AvalonBay Communities,425 Market St,San Francisco,CA,USA,processed
+Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA,processed
+Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,processed
+Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,processed
+Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,processed
+Ryan Reynolds,ryan@test.com,Camden Property Trust,11 Greenway Plaza,Houston,TX,USA,processed
+Maya Patel,maya@test.com,UDR Apartments,1745 Shea Center Dr,Highlands Ranch,CO,USA,processed
+Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,USA,processed
+Sophia Lee,sophia@test.com,MAA Apartments,6815 Poplar Ave,Germantown,TN,USA,processed
+Olivia Brown,olivia@sunsetliving.com,Sunset Living Apartments,555 Sunset Blvd,Los Angeles,CA,USA,new
+Ethan Carter,ethan@metroprop.com,Metro Properties,88 Peachtree St,Atlanta,GA,USA,new
+Isabella Martinez,isabella@coastalrealty.com,Coastal Realty,120 Ocean Dr,Miami,FL,USA,new
+Noah Wilson,noah@urbanedge.com,Urban Edge Properties,350 5th Ave,New York,NY,USA,new
+Ava Thompson,ava@lakeshoremgmt.com,Lakeshore Property Management,600 N Lake Shore Dr,Chicago,IL,USA,new
