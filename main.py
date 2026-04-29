@@ -36,7 +36,7 @@ else:
         print(f"Processing lead {index}: {row['name']} at {row['company']}")
 
         try:
-            score, insights, outreach_email, priority = enrich(row)
+            score, insights, outreach_email, priority, rep_approach = enrich(row)
 
             # Update ONLY processing status in input file
             leads.at[index, "processing_status"] = "processed"
@@ -53,6 +53,7 @@ else:
                 "lead_score": score,
                 "priority": priority,
                 "sales_insights": insights,
+                "rep_approach": rep_approach,
                 "outreach_email": outreach_email
             })
 

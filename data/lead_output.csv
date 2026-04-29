@@ -1,4 +1,4 @@
-name,email,company,property_address,city,state,country,lead_score,priority,sales_insights,outreach_email
+name,email,company,property_address,city,state,country,lead_score,priority,sales_insights,rep_approach,outreach_email
 Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,USA,74,HIGH,"- Lincoln Property Company appears to operate in real estate (strong fit).
 - Lincoln Property Company does not have a Wikipedia page.
 - Recent growth signal: Lincoln Property Company linked to recent transaction: Brookfield Sells Broward County Warehouses for $78M
@@ -6,7 +6,11 @@ Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,
 - Median household income is healthy at about $70,518.
 - Vacancy rate is somewhat elevated at about 9.5%.
 - Walk Score is 93, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Daniel,
+- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","- Prioritize immediate outreach and fast follow-up
+- Emphasize speed-to-lead in a high-volume leasing market
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response
+- Reference recent transaction activity to discuss scaling needs","Hi Daniel,
 
 Reaching out because Lincoln Property Company is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -23,7 +27,10 @@ Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA
 - Median household income is healthy at about $77,902.
 - Vacancy rate is somewhat elevated at about 9.1%.
 - Walk Score is 98, considered highly walkable.
-- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","Hi Chris,
+- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-volume leasing market
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response","Hi Chris,
 
 Reaching out because Equity Residential is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -40,7 +47,9 @@ Rachel Green,rachel@test.com,AvalonBay Communities,425 Market St,San Francisco,C
 - Median household income is strong at about $140,970.
 - Vacancy rate is high at about 12.2%, suggesting weaker demand.
 - Walk Score is 99, considered highly walkable.
-- San Francisco has a solid population of about 830,235, suggesting a strong urban market.","Hi Rachel,
+- San Francisco has a solid population of about 830,235, suggesting a strong urban market.","- Use a value-driven, consultative outreach approach
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response","Hi Rachel,
 
 Reaching out because AvalonBay Communities is operating in San Francisco, which is a growing rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -57,7 +66,9 @@ Ryan Reynolds,ryan@test.com,Camden Property Trust,11 Greenway Plaza,Houston,TX,U
 - Median household income is moderate at about $64,813.
 - Vacancy rate is somewhat elevated at about 10.6%.
 - Walk Score is 85, indicating strong walkability.
-- Houston has a large population of about 2,328,253, which is used as a proxy for strong urban density.","Hi Ryan,
+- Houston has a large population of about 2,328,253, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-volume leasing market
+- Position around filling vacancy and improving conversion","Hi Ryan,
 
 Reaching out because Camden Property Trust is operating in Houston, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -74,7 +85,11 @@ Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,56,MED,"- Gre
 - Median household income is healthy at about $77,902.
 - Vacancy rate is somewhat elevated at about 9.1%.
 - Walk Score is 99, considered highly walkable.
-- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","Hi Alex,
+- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-volume leasing market
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response
+- Reference recent transaction activity to discuss scaling needs","Hi Alex,
 
 Reaching out because Greystar is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -91,7 +106,7 @@ Maya Patel,maya@test.com,UDR Apartments,1745 Shea Center Dr,Highlands Ranch,CO,U
 - Median household income is strong at about $159,307.
 - Vacancy rate is low at about 2.5%, suggesting strong demand.
 - Walk Score is 52, indicating moderate walkability.
-- Highlands Ranch has about 102,257 residents, suggesting a mid-sized urban market.","Hi Maya,
+- Highlands Ranch has about 102,257 residents, suggesting a mid-sized urban market.","- Use a value-driven, consultative outreach approach","Hi Maya,
 
 Reaching out because UDR Apartments is operating in Highlands Ranch, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -108,7 +123,7 @@ Sophia Lee,sophia@test.com,MAA Apartments,6815 Poplar Ave,Germantown,TN,USA,49,M
 - Median household income is strong at about $149,920.
 - Vacancy rate is low at about 3.3%, suggesting strong demand.
 - Walk Score is 61, indicating moderate walkability.
-- Germantown has a smaller population of about 40,673, suggesting lower urban density.","Hi Sophia,
+- Germantown has a smaller population of about 40,673, suggesting lower urban density.","- Use a value-driven, consultative outreach approach","Hi Sophia,
 
 Reaching out because MAA Apartments is operating in Germantown, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -125,7 +140,10 @@ Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,48,MED
 - Median household income is healthy at about $70,518.
 - Vacancy rate is somewhat elevated at about 9.5%.
 - Walk Score is 92, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Jordan,
+- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-volume leasing market
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response","Hi Jordan,
 
 Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -142,7 +160,9 @@ Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,2
 - Median household income is strong at about $107,614.
 - Vacancy rate is high at about 13.7%, suggesting weaker demand.
 - Walk Score is 97, considered highly walkable.
-- New York has a smaller population of about 638, suggesting lower urban density.","Hi Taylor,
+- New York has a smaller population of about 638, suggesting lower urban density.","- Lower priority — consider light-touch or nurture outreach
+- Position around filling vacancy and improving conversion
+- Highlight high-demand location and need for fast response","Hi Taylor,
 
 Reaching out because Related Companies is operating in New York, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
@@ -159,7 +179,7 @@ Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,15,LOW,"- Bozzu
 - Median household income is healthy at about $85,997.
 - Vacancy rate is moderate at about 5.4%.
 - Walk Score is 47, indicating low walkability.
-- Greenbelt has a smaller population of about 24,678, suggesting lower urban density.","Hi Emma,
+- Greenbelt has a smaller population of about 24,678, suggesting lower urban density.",- Lower priority — consider light-touch or nurture outreach,"Hi Emma,
 
 Reaching out because Bozzuto is operating in Greenbelt, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
