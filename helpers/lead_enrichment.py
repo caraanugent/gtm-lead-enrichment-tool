@@ -44,14 +44,13 @@ def generate_rep_approach(company_data, market_data, city_data, priority):
 
     approach = []
 
-    # Extract signals:
     population = market_data.get("population") if market_data else None
     vacancy_rate = market_data.get("vacancy_rate") if market_data else None
     walk_score = city_data.get("walk_score") if city_data else None
     expansion_signal = company_data.get("expansion_signal") if company_data else False
     is_real_estate = company_data.get("is_real_estate") if company_data else False
 
-    # Insights based on priority:
+    # Priority
     if priority == "HIGH":
         approach.append("Prioritize immediate outreach and fast follow-up")
     elif priority == "MED":
@@ -59,21 +58,21 @@ def generate_rep_approach(company_data, market_data, city_data, priority):
     else:
         approach.append("Lower priority — consider light-touch or nurture outreach")
 
-    # Insights based on signals:
-    if population and population > 1_000_000:
-        approach.append("Emphasize speed-to-lead in a high-volume leasing market")
+    # Combine demand signals into ONE idea
+    if (population and population > 1_000_000) or (walk_score and walk_score > 90):
+        approach.append("Emphasize speed-to-lead in a high-demand, high-volume leasing market")
 
+    # Vacancy
     if vacancy_rate and vacancy_rate > 0.08:
-        approach.append("Position around filling vacancy and improving conversion")
+        approach.append("Focus on reducing vacancy and improving conversion rates")
 
-    if walk_score and walk_score > 90:
-        approach.append("Highlight high-demand location and need for fast response")
-
+    # Growth
     if expansion_signal:
-        approach.append("Reference recent transaction activity to discuss scaling needs")
+        approach.append("Leverage recent transaction activity to discuss portfolio growth and scaling needs")
 
+    # Product tie-in
     if is_real_estate:
-        approach.append("Focus on leasing and resident communication automation")
+        approach.append("Highlight automation of leasing and resident communication workflows")
 
     return "\n".join([f"- {a}" for a in approach])
 
@@ -87,17 +86,17 @@ def enrich(row):
     total_score = 0
     all_insights = []
 
-    # 1. Company Fit:
+    # 1. Company Fit
     company_score, company_insights, company_data = score_company_fit(company)
     total_score += company_score
     all_insights.extend(company_insights)
 
-    # 2. Market Quality:
+    # 2. Market Quality
     market_score, market_insights, market_data = score_market_quality(city, state)
     total_score += market_score
     all_insights.extend(market_insights)
 
-    # 3. City Demand:
+    # 3. City Demand
     city_score, city_insights, city_data = score_city_demand(row)
     total_score += city_score
     all_insights.extend(city_insights)
@@ -109,7 +108,7 @@ def enrich(row):
 
     population = market_data.get("population") if market_data else None
 
-    # 4. Outreach Email:
+    # 4. Outreach Email
     outreach_email = generate_outreach_email(
         name=name,
         company=company,
@@ -117,7 +116,7 @@ def enrich(row):
         population=population
     )
 
-    # 5. Rep Approach:
+    # 5. Rep Approach
     rep_approach = generate_rep_approach(
     company_data=company_data,
     market_data=market_data,
