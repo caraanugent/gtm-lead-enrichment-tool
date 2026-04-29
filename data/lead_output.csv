@@ -1,24 +1,7 @@
 name,email,company,property_address,city,state,country,lead_score,priority,sales_insights,outreach_email
-Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA,74,HIGH,"- Equity Residential appears to operate in real estate (strong fit).
-- Equity Residential does not have a Wikipedia page.
-- Recent growth signal: Property-Focused Real Estate Investment Trusts Are Proving Resilient
-- Chicago has a large population of about 2,711,226.
-- Median household income is healthy at about $77,902.
-- Vacancy rate is somewhat elevated at about 9.1%.
-- Walk Score is 98, considered highly walkable.
-- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","Hi Chris,
-
-Reaching out because Equity Residential is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
 Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,USA,74,HIGH,"- Lincoln Property Company appears to operate in real estate (strong fit).
 - Lincoln Property Company does not have a Wikipedia page.
-- Recent growth signal: Brookfield Sells Broward County Warehouses for $78M
+- Recent growth signal: Lincoln Property Company linked to recent transaction: Brookfield Sells Broward County Warehouses for $78M
 - Dallas has a large population of about 1,307,930.
 - Median household income is healthy at about $70,518.
 - Vacancy rate is somewhat elevated at about 9.5%.
@@ -33,9 +16,9 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA,74,HIGH,"- Equity Residential appears to operate in real estate (strong fit).
+Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA,66,MED,"- Equity Residential appears to operate in real estate (strong fit).
 - Equity Residential does not have a Wikipedia page.
-- Recent growth signal: Property-Focused Real Estate Investment Trusts Are Proving Resilient
+- No recent company-specific growth signals found.
 - Chicago has a large population of about 2,711,226.
 - Median household income is healthy at about $77,902.
 - Vacancy rate is somewhat elevated at about 9.1%.
@@ -50,43 +33,9 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,USA,74,HIGH,"- Lincoln Property Company appears to operate in real estate (strong fit).
-- Lincoln Property Company does not have a Wikipedia page.
-- Recent growth signal: Brookfield Sells Broward County Warehouses for $78M
-- Dallas has a large population of about 1,307,930.
-- Median household income is healthy at about $70,518.
-- Vacancy rate is somewhat elevated at about 9.5%.
-- Walk Score is 93, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Daniel,
-
-Reaching out because Lincoln Property Company is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Rachel Green,rachel@test.com,AvalonBay Communities,425 Market St,San Francisco,CA,USA,70,HIGH,"- AvalonBay Communities appears to operate in real estate (strong fit).
+Rachel Green,rachel@test.com,AvalonBay Communities,425 Market St,San Francisco,CA,USA,62,MED,"- AvalonBay Communities appears to operate in real estate (strong fit).
 - AvalonBay Communities does not have a Wikipedia page.
-- Recent growth signal: Property-Focused Real Estate Investment Trusts Are Proving Resilient
-- San Francisco has a large population of about 830,235.
-- Median household income is strong at about $140,970.
-- Vacancy rate is high at about 12.2%, suggesting weaker demand.
-- Walk Score is 99, considered highly walkable.
-- San Francisco has a solid population of about 830,235, suggesting a strong urban market.","Hi Rachel,
-
-Reaching out because AvalonBay Communities is operating in San Francisco, which is a growing rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Rachel Green,rachel@test.com,AvalonBay Communities,425 Market St,San Francisco,CA,USA,70,HIGH,"- AvalonBay Communities appears to operate in real estate (strong fit).
-- AvalonBay Communities does not have a Wikipedia page.
-- Recent growth signal: Property-Focused Real Estate Investment Trusts Are Proving Resilient
+- No recent company-specific growth signals found.
 - San Francisco has a large population of about 830,235.
 - Median household income is strong at about $140,970.
 - Vacancy rate is high at about 12.2%, suggesting weaker demand.
@@ -103,24 +52,7 @@ Best,
 Cara"
 Ryan Reynolds,ryan@test.com,Camden Property Trust,11 Greenway Plaza,Houston,TX,USA,61,MED,"- Camden Property Trust appears to operate in real estate (strong fit).
 - Camden Property Trust does not have a Wikipedia page.
-- No recent expansion-related news found.
-- Houston has a large population of about 2,328,253.
-- Median household income is moderate at about $64,813.
-- Vacancy rate is somewhat elevated at about 10.6%.
-- Walk Score is 85, indicating strong walkability.
-- Houston has a large population of about 2,328,253, which is used as a proxy for strong urban density.","Hi Ryan,
-
-Reaching out because Camden Property Trust is operating in Houston, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Ryan Reynolds,ryan@test.com,Camden Property Trust,11 Greenway Plaza,Houston,TX,USA,61,MED,"- Camden Property Trust appears to operate in real estate (strong fit).
-- Camden Property Trust does not have a Wikipedia page.
-- No recent expansion-related news found.
+- No recent company-specific growth signals found.
 - Houston has a large population of about 2,328,253.
 - Median household income is moderate at about $64,813.
 - Vacancy rate is somewhat elevated at about 10.6%.
@@ -137,7 +69,7 @@ Best,
 Cara"
 Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,56,MED,"- Greystar does not clearly operate in real estate.
 - Greystar does not have a Wikipedia page.
-- Recent growth signal: Nuveen Buys Suburban South Florida Retail Center for $46M
+- Recent growth signal: Greystar linked to recent transaction: A New Take on Apartment Living Rises Above Murrieta at Montessa Heights
 - Chicago has a large population of about 2,711,226.
 - Median household income is healthy at about $77,902.
 - Vacancy rate is somewhat elevated at about 9.1%.
@@ -152,77 +84,9 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,56,MED,"- CBRE Group does not clearly operate in real estate.
-- CBRE Group does not have a Wikipedia page.
-- Recent growth signal: Stock Indexes Recover on Strength in Chipmakers
-- Dallas has a large population of about 1,307,930.
-- Median household income is healthy at about $70,518.
-- Vacancy rate is somewhat elevated at about 9.5%.
-- Walk Score is 92, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Jordan,
-
-Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
 Maya Patel,maya@test.com,UDR Apartments,1745 Shea Center Dr,Highlands Ranch,CO,USA,56,MED,"- UDR Apartments appears to operate in real estate (strong fit).
 - UDR Apartments does not have a Wikipedia page.
-- No recent expansion-related news found.
-- Highlands Ranch has a smaller population of about 102,257.
-- Median household income is strong at about $159,307.
-- Vacancy rate is low at about 2.5%, suggesting strong demand.
-- Walk Score is 52, indicating moderate walkability.
-- Highlands Ranch has about 102,257 residents, suggesting a mid-sized urban market.","Hi Maya,
-
-Reaching out because UDR Apartments is operating in Highlands Ranch, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,56,MED,"- Greystar does not clearly operate in real estate.
-- Greystar does not have a Wikipedia page.
-- Recent growth signal: Nuveen Buys Suburban South Florida Retail Center for $46M
-- Chicago has a large population of about 2,711,226.
-- Median household income is healthy at about $77,902.
-- Vacancy rate is somewhat elevated at about 9.1%.
-- Walk Score is 99, considered highly walkable.
-- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","Hi Alex,
-
-Reaching out because Greystar is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,56,MED,"- CBRE Group does not clearly operate in real estate.
-- CBRE Group does not have a Wikipedia page.
-- Recent growth signal: Stock Indexes Recover on Strength in Chipmakers
-- Dallas has a large population of about 1,307,930.
-- Median household income is healthy at about $70,518.
-- Vacancy rate is somewhat elevated at about 9.5%.
-- Walk Score is 92, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Jordan,
-
-Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Maya Patel,maya@test.com,UDR Apartments,1745 Shea Center Dr,Highlands Ranch,CO,USA,56,MED,"- UDR Apartments appears to operate in real estate (strong fit).
-- UDR Apartments does not have a Wikipedia page.
-- No recent expansion-related news found.
+- No recent company-specific growth signals found.
 - Highlands Ranch has a smaller population of about 102,257.
 - Median household income is strong at about $159,307.
 - Vacancy rate is low at about 2.5%, suggesting strong demand.
@@ -239,7 +103,7 @@ Best,
 Cara"
 Sophia Lee,sophia@test.com,MAA Apartments,6815 Poplar Ave,Germantown,TN,USA,49,MED,"- MAA Apartments appears to operate in real estate (strong fit).
 - MAA Apartments does not have a Wikipedia page.
-- No recent expansion-related news found.
+- No recent company-specific growth signals found.
 - Germantown has a relatively small population of about 40,673.
 - Median household income is strong at about $149,920.
 - Vacancy rate is low at about 3.3%, suggesting strong demand.
@@ -254,33 +118,16 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Sophia Lee,sophia@test.com,MAA Apartments,6815 Poplar Ave,Germantown,TN,USA,49,MED,"- MAA Apartments appears to operate in real estate (strong fit).
-- MAA Apartments does not have a Wikipedia page.
-- No recent expansion-related news found.
-- Germantown has a relatively small population of about 40,673.
-- Median household income is strong at about $149,920.
-- Vacancy rate is low at about 3.3%, suggesting strong demand.
-- Walk Score is 61, indicating moderate walkability.
-- Germantown has a smaller population of about 40,673, suggesting lower urban density.","Hi Sophia,
+Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,48,MED,"- CBRE Group does not clearly operate in real estate.
+- CBRE Group does not have a Wikipedia page.
+- No recent company-specific growth signals found.
+- Dallas has a large population of about 1,307,930.
+- Median household income is healthy at about $70,518.
+- Vacancy rate is somewhat elevated at about 9.5%.
+- Walk Score is 92, considered highly walkable.
+- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","Hi Jordan,
 
-Reaching out because MAA Apartments is operating in Germantown, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,33,LOW,"- Related Companies does not clearly operate in real estate.
-- Related Companies does not have a Wikipedia page.
-- Recent growth signal: Related Digital Announces Financing for $16 Billion Oracle Data Center Project in Saline Township, Michigan
-- New York has a relatively small population of about 638.
-- Median household income is strong at about $107,614.
-- Vacancy rate is high at about 13.7%, suggesting weaker demand.
-- Walk Score is 97, considered highly walkable.
-- New York has a smaller population of about 638, suggesting lower urban density.","Hi Taylor,
-
-Reaching out because Related Companies is operating in New York, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
+Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
 We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
 
@@ -288,9 +135,9 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,33,LOW,"- Related Companies does not clearly operate in real estate.
+Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,25,LOW,"- Related Companies does not clearly operate in real estate.
 - Related Companies does not have a Wikipedia page.
-- Recent growth signal: Related Digital Announces Financing for $16 Billion Oracle Data Center Project in Saline Township, Michigan
+- No recent company-specific growth signals found.
 - New York has a relatively small population of about 638.
 - Median household income is strong at about $107,614.
 - Vacancy rate is high at about 13.7%, suggesting weaker demand.
@@ -307,24 +154,7 @@ Best,
 Cara"
 Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,15,LOW,"- Bozzuto does not clearly operate in real estate.
 - Bozzuto does not have a Wikipedia page.
-- No recent expansion-related news found.
-- Greenbelt has a relatively small population of about 24,678.
-- Median household income is healthy at about $85,997.
-- Vacancy rate is moderate at about 5.4%.
-- Walk Score is 47, indicating low walkability.
-- Greenbelt has a smaller population of about 24,678, suggesting lower urban density.","Hi Emma,
-
-Reaching out because Bozzuto is operating in Greenbelt, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,15,LOW,"- Bozzuto does not clearly operate in real estate.
-- Bozzuto does not have a Wikipedia page.
-- No recent expansion-related news found.
+- No recent company-specific growth signals found.
 - Greenbelt has a relatively small population of about 24,678.
 - Median household income is healthy at about $85,997.
 - Vacancy rate is moderate at about 5.4%.

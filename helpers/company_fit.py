@@ -51,37 +51,56 @@ def detect_industry(company, summary):
 
 def is_expanding(company):
     """
-    Uses NewsAPI to check for growth signals
+    Uses NewsAPI to check for company-specific growth signals.
+    Only returns True if the article actually mentions the company
+    and contains a growth-related keyword.
     """
     if not NEWS_API_KEY:
         return False, "NewsAPI key not available."
 
     url = "https://newsapi.org/v2/everything"
 
+    growth_keywords = [
+        "expansion", "expanding", "opened", "opening",
+        "acquired", "acquisition", "funding", "partnership",
+        "growth", "investment", "launch", "new development"
+    ]
+
     search_query = (
         f'"{company}" AND '
-        f'(expansion OR expanding OR opened OR acquired OR acquisition OR funding OR partnership OR growth)'
+        f'(expansion OR expanding OR opened OR acquired OR acquisition '
+        f'OR funding OR partnership OR growth OR investment OR launch)'
     )
 
     params = {
         "q": search_query,
         "language": "en",
         "sortBy": "publishedAt",
-        "pageSize": 5,
+        "pageSize": 10,
         "apiKey": NEWS_API_KEY
     }
 
     try:
         response = requests.get(url, params=params, timeout=10)
+        response.raise_for_status()
 
-        if response.status_code == 200:
-            articles = response.json().get("articles", [])
+        articles = response.json().get("articles", [])
 
-            if articles:
-                headline = articles[0].get("title", "")
-                return True, headline
+        for article in articles:
+            title = article.get("title", "") or ""
+            description = article.get("description", "") or ""
+            content = article.get("content", "") or ""
 
-        return False, "No recent expansion-related news found."
+            article_text = f"{title} {description} {content}".lower()
+            company_lower = company.lower()
+
+            company_is_mentioned = company_lower in article_text
+            growth_is_mentioned = any(keyword in article_text for keyword in growth_keywords)
+
+            if company_is_mentioned and growth_is_mentioned:
+                return True, f"{company} linked to recent transaction: {title}"
+
+        return False, "No recent company-specific growth signals found."
 
     except Exception as e:
         print(f"NewsAPI error for {company}: {e}")
