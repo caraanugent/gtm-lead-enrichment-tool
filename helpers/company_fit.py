@@ -38,9 +38,18 @@ def detect_industry(company, summary):
         "property group", "management", "development"
     ]
 
+    # hard code in some large realestate companies
+    known_real_estate_companies = [
+        "greystar", "cbre", "bozzuto", "avalonbay",
+        "equity residential", "camden property trust", "udr",
+        "lincoln property", "maa", "related companies"
+    ]
+
     text = (summary or "").lower()
     name = (company or "").lower()
 
+    if any(known in name for known in known_real_estate_companies):
+        return "real_estate"
 
     if any(keyword in text for keyword in real_estate_keywords) or \
        any(keyword in name for keyword in real_estate_keywords):

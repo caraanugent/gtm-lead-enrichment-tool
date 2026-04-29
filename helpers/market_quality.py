@@ -14,6 +14,22 @@ STATE_FIPS = {
     "VT": "50", "VA": "51", "WA": "53", "WV": "54", "WI": "55",
     "WY": "56"}
 
+def normalize_place_name(name):
+    """
+    Normalizes Census place names so values like:
+    'New York city, New York' become 'new york'.
+    """
+    name = str(name).lower().strip()
+    name = name.split(",")[0].strip()
+
+    suffixes = [" city", " town", " village", " borough", " municipality", " cdp"]
+    for suffix in suffixes:
+        if name.endswith(suffix):
+            name = name[:-len(suffix)].strip()
+            break
+
+    return name
+
 def find_place_fips(city, state):
     """
     Finds the Census place code for a city within a state.
@@ -40,11 +56,16 @@ def find_place_fips(city, state):
             headers = rows[0]
             data_rows = rows[1:]
 
+            target_city = str(city).lower().strip()
+
             for row in data_rows:
                 row_data = dict(zip(headers, row))
-                place_name = row_data["NAME"].lower()
+                place_name = row_data["NAME"]
+                normalized_place = normalize_place_name(place_name)
 
-                if city.lower() in place_name:
+                # Census returns names like "New York city, New York".
+                # Normalize before matching so "New York" matches the correct place.
+                if normalized_place == target_city:
                     return row_data["place"]
 
         return None

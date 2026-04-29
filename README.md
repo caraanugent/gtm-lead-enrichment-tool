@@ -12,6 +12,8 @@ Given a list of leads (name, company, location), it:
 * Drafts personalized outreach emails
 * Prioritizes leads (HIGH / MED / LOW)
 
+This reduces manual SDR research, improves lead prioritization, and enables faster, more consistent outreach at the top of the funnel.
+
 ---
 
 ## Scoring Framework
@@ -64,7 +66,7 @@ python main.py
 
 This will:
 
-* Process only new leads (`processing_status = "new"`)
+* Process only new leads (marked as `processing_status = "new"`)
 * Enrich and score them
 * Update the CSV with results
 
@@ -120,6 +122,7 @@ That file includes:
 - lead_score
 - priority
 - sales_insights
+- rep_approach
 - outreach_email
 
 ---
@@ -128,7 +131,8 @@ That file includes:
 
 * Property-level unit data was excluded due to lack of reliable free APIs.
 * The tool avoids using low-confidence estimates to maintain scoring integrity.
-* Designed as an MVP for scalability and real-world sales workflows.
+* Designed as an MVP with a focus on real-world SDR workflows, prioritizing actionable outputs over perfect data coverage.
+* Future improvements could include incorporating unit-level data (PUPM driver) and more precise urban density metrics to further improve scoring accuracy.
 
 ---
 

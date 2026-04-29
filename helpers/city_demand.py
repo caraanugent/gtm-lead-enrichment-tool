@@ -1,6 +1,7 @@
 import os
 import requests
 
+from helpers.market_quality import find_place_fips
 
 WALKSCORE_API_KEY = os.getenv("WALKSCORE_API_KEY")
 
@@ -89,44 +90,6 @@ def get_walk_score(address, city, state, lat, lon):
         print(f"Walk Score error for {full_address}: {e}")
         return None
 
-
-def find_place_fips(city, state):
-    """
-    Finds Census place code for the city.
-    """
-
-    state_fips = STATE_FIPS.get(state.upper())
-
-    if not state_fips:
-        return None
-
-    url = "https://api.census.gov/data/2024/acs/acs5"
-
-    params = {
-        "get": "NAME",
-        "for": "place:*",
-        "in": f"state:{state_fips}"
-    }
-
-    try:
-        response = requests.get(url, params=params, timeout=10)
-
-        if response.status_code == 200:
-            rows = response.json()
-            headers = rows[0]
-
-            for row in rows[1:]:
-                row_data = dict(zip(headers, row))
-                place_name = row_data["NAME"].lower()
-
-                if city.lower() in place_name:
-                    return row_data["place"]
-
-        return None
-
-    except Exception as e:
-        print(f"Census place lookup error for {city}, {state}: {e}")
-        return None
 
 
 def get_urban_density_proxy(city, state):

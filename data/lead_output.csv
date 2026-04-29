@@ -1,4 +1,24 @@
 name,email,company,property_address,city,state,country,lead_score,priority,sales_insights,rep_approach,outreach_email
+Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,74,HIGH,"- Greystar appears to operate in real estate (strong fit).
+- Greystar does not have a Wikipedia page.
+- Recent growth signal: Greystar linked to recent transaction: A New Take on Apartment Living Rises Above Murrieta at Montessa Heights
+- Chicago has a large population of about 2,711,226.
+- Median household income is healthy at about $77,902.
+- Vacancy rate is somewhat elevated at about 9.1%.
+- Walk Score is 99, considered highly walkable.
+- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","- Prioritize immediate outreach and fast follow-up
+- Emphasize speed-to-lead in a high-demand, high-volume leasing market
+- Focus on reducing vacancy and improving conversion rates
+- Leverage recent transaction activity to discuss portfolio growth and scaling needs","Hi Alex,
+
+Reaching out because Greystar is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
+
+We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
+
+If you’re seeing that kind of volume right now, it might be worth comparing notes.
+
+Best,  
+Cara"
 Daniel Kim,daniel@test.com,Lincoln Property Company,2000 McKinney Ave,Dallas,TX,USA,74,HIGH,"- Lincoln Property Company appears to operate in real estate (strong fit).
 - Lincoln Property Company does not have a Wikipedia page.
 - Recent growth signal: Lincoln Property Company linked to recent transaction: Brookfield Sells Broward County Warehouses for $78M
@@ -31,6 +51,44 @@ Chris Evans,chris@test.com,Equity Residential,2 N Riverside Plaza,Chicago,IL,USA
 - Focus on reducing vacancy and improving conversion rates","Hi Chris,
 
 Reaching out because Equity Residential is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
+
+We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
+
+If you’re seeing that kind of volume right now, it might be worth comparing notes.
+
+Best,  
+Cara"
+Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,66,MED,"- Related Companies appears to operate in real estate (strong fit).
+- Related Companies does not have a Wikipedia page.
+- No recent company-specific growth signals found.
+- New York has a large population of about 8,483,844.
+- Median household income is healthy at about $80,483.
+- Vacancy rate is somewhat elevated at about 9.4%.
+- Walk Score is 97, considered highly walkable.
+- New York has a large population of about 8,483,844, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-demand, high-volume leasing market
+- Focus on reducing vacancy and improving conversion rates","Hi Taylor,
+
+Reaching out because Related Companies is operating in New York, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
+
+We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
+
+If you’re seeing that kind of volume right now, it might be worth comparing notes.
+
+Best,  
+Cara"
+Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,66,MED,"- CBRE Group appears to operate in real estate (strong fit).
+- CBRE Group does not have a Wikipedia page.
+- No recent company-specific growth signals found.
+- Dallas has a large population of about 1,307,930.
+- Median household income is healthy at about $70,518.
+- Vacancy rate is somewhat elevated at about 9.5%.
+- Walk Score is 92, considered highly walkable.
+- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
+- Emphasize speed-to-lead in a high-demand, high-volume leasing market
+- Focus on reducing vacancy and improving conversion rates","Hi Jordan,
+
+Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
 
 We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
 
@@ -76,26 +134,6 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Alex Turner,alex@test.com,Greystar,200 W Madison St,Chicago,IL,USA,56,MED,"- Greystar does not clearly operate in real estate.
-- Greystar does not have a Wikipedia page.
-- Recent growth signal: Greystar linked to recent transaction: A New Take on Apartment Living Rises Above Murrieta at Montessa Heights
-- Chicago has a large population of about 2,711,226.
-- Median household income is healthy at about $77,902.
-- Vacancy rate is somewhat elevated at about 9.1%.
-- Walk Score is 99, considered highly walkable.
-- Chicago has a large population of about 2,711,226, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
-- Emphasize speed-to-lead in a high-demand, high-volume leasing market
-- Focus on reducing vacancy and improving conversion rates
-- Leverage recent transaction activity to discuss portfolio growth and scaling needs","Hi Alex,
-
-Reaching out because Greystar is operating in Chicago, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
 Maya Patel,maya@test.com,UDR Apartments,1745 Shea Center Dr,Highlands Ranch,CO,USA,56,MED,"- UDR Apartments appears to operate in real estate (strong fit).
 - UDR Apartments does not have a Wikipedia page.
 - No recent company-specific growth signals found.
@@ -130,45 +168,7 @@ If you’re seeing that kind of volume right now, it might be worth comparing no
 
 Best,  
 Cara"
-Jordan Belfort,jordan@test.com,CBRE Group,2100 McKinney Ave,Dallas,TX,USA,48,MED,"- CBRE Group does not clearly operate in real estate.
-- CBRE Group does not have a Wikipedia page.
-- No recent company-specific growth signals found.
-- Dallas has a large population of about 1,307,930.
-- Median household income is healthy at about $70,518.
-- Vacancy rate is somewhat elevated at about 9.5%.
-- Walk Score is 92, considered highly walkable.
-- Dallas has a large population of about 1,307,930, which is used as a proxy for strong urban density.","- Use a value-driven, consultative outreach approach
-- Emphasize speed-to-lead in a high-demand, high-volume leasing market
-- Focus on reducing vacancy and improving conversion rates","Hi Jordan,
-
-Reaching out because CBRE Group is operating in Dallas, which is a high-volume leasing market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Taylor Swift,taylor@test.com,Related Companies,30 Hudson Yards,New York,NY,USA,25,LOW,"- Related Companies does not clearly operate in real estate.
-- Related Companies does not have a Wikipedia page.
-- No recent company-specific growth signals found.
-- New York has a relatively small population of about 638.
-- Median household income is strong at about $107,614.
-- Vacancy rate is high at about 13.7%, suggesting weaker demand.
-- Walk Score is 97, considered highly walkable.
-- New York has a smaller population of about 638, suggesting lower urban density.","- Lower priority — consider light-touch or nurture outreach
-- Emphasize speed-to-lead in a high-demand, high-volume leasing market
-- Focus on reducing vacancy and improving conversion rates","Hi Taylor,
-
-Reaching out because Related Companies is operating in New York, which is an active rental market—teams there usually end up buried in inbound leads, tour scheduling, and follow-ups.
-
-We help property management teams take that entire front-end off their plate—responding to every inquiry instantly, scheduling tours automatically, and handling the bulk of resident communication—so onsite teams can focus on closing and operations instead of chasing leads.
-
-If you’re seeing that kind of volume right now, it might be worth comparing notes.
-
-Best,  
-Cara"
-Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,15,LOW,"- Bozzuto does not clearly operate in real estate.
+Emma Watson,emma@test.com,Bozzuto,6406 Ivy Lane,Greenbelt,MD,USA,33,LOW,"- Bozzuto appears to operate in real estate (strong fit).
 - Bozzuto does not have a Wikipedia page.
 - No recent company-specific growth signals found.
 - Greenbelt has a relatively small population of about 24,678.
